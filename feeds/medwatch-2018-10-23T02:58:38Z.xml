@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+	
+
+<rss version="2.0">
+<channel>
+	<title>MedWatch Safety Alert RSS Feed</title>
+	<description>FDA MedWatch Safety Alerts</description>
+	<link>https://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/MedWatch/rss.xml</link>
+	<language>en-us</language>
+	<lastBuildDate>Wed, 29 Aug 2018 00:00:00 -0400</lastBuildDate>
+ 
+	<webMaster>jay.wattenberg@fda.hhs.gov (Jay Wattenberg)</webMaster>
+  			<image> 
+  				<title>FDA MedWatch</title> 
+ 				<url>https://www.fda.gov/ucm/groups/fdagov-public/documents/image/ucm052224.gif</url> 
+  				<link>https://www.fda.gov/Safety/MedWatch/default.htm</link> 
+  				<width>144</width> 
+  				<height>52</height> 
+  				<description>FDA MedWatch Safety Alerts</description> 
+  			</image> 
+	<item>
+	 <title>SGLT2(sodium-glucose cotransporter-2) Inhibitors for Diabetes: Drug Safety Communication - Regarding Rare Occurrences of a Serious Infection of the Genital Area</title>
+	 <description>Requiring a new warning about this risk to be added to the prescribing information of all SGLT2 inhibitors and to the patient Medication Guide.</description>
+	 <pubDate>Wed, 29 Aug 2018 00:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm618908.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm618908.htm</guid>
+	</item>
+	<item>
+	 <title>Temporary Total Artificial Heart Companion 2 Driver System by SynCardia Systems: Letter to Health Care Providers - Risk of Mortality and Stroke</title>
+	 <description>FDA has reviewed the final results from the post-approval study conducted by SynCardia Systems, LLC. for their Temporary Total Artificial Heart (TAH-t) Companion 2 Driver System (C2 Driver System). These final results indicate a higher mortality rate and higher stroke rate for patients initially supported with the C2 Driver System compared to patients initially supported with the previous generation driver, the Circulatory Support System (CSS) Console.</description>
+	 <pubDate>Fri, 17 Aug 2018 11:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm617259.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm617259.htm</guid>
+	</item>
+	<item>
+	 <title>Risks Associated with Use of Rupture of Membranes Tests - Letter to Health Care Providers</title>
+	 <description>The FDA is reminding health care providers that tests to detect rupture of the amniotic membranes should not be used without other clinical assessments to make critical patient management decisions.</description>
+	 <pubDate>Wed, 08 Aug 2018 14:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm616220.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm616220.htm</guid>
+	</item>
+	<item>
+	 <title>Zithromax, Zmax (azithromycin): FDA Warning - Increased Risk of Cancer Relapse With Long-Term Use After Donor Stem Cell Transplant</title>
+	 <description>The antibiotic Zithromax, Zmax (azithromycin) should not be given long-term to prevent a certain inflammatory lung condition in patients with cancers of the blood or lymph nodes who undergo a donor stem cell transplant. Results of a clinical trial found an increased rate of relapse in cancers affecting the blood and lymph nodes, including death, in these patients.</description>
+	 <pubDate>Fri, 03 Aug 2018 10:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm615738.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm615738.htm</guid>
+	</item>
+	<item>
+	 <title>Valsartan-Containing Products: Update Health Professional and Consumer on Recent Recalled Products</title>
+	 <description>The investigation into valsartan-containing products is ongoing and there are currently three voluntary recalls related to the NDMA impurity detected in the valsartan</description>
+	 <pubDate>Thu, 19 Jul 2018 00:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm614030.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm614030.htm</guid>
+	</item>
+	<item>
+	 <title>Fluoroquinolone Antibiotics: FDA Requires Labeling Changes Due to Low Blood Sugar Levels and Mental Health Side Effects</title>
+	 <description>FDA is strengthening the current warnings in the prescribing information that fluoroquinolone antibiotics may cause significant decreases in blood sugar and certain mental health side effects.</description>
+	 <pubDate>Tue, 10 Jul 2018 13:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm612979.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm612979.htm</guid>
+	</item>
+	<item>
+	 <title>Kratom (mitragyna speciosa) Powder Products by Gaia Ethnobotanical: Recall - Due to Potential Salmonella Contamination</title>
+	 <description>The products have been found by the FDA via sample testing and finding to have salmonella contamination. In lieu of such FDA findings the company has implemented standard operating procedures and sterilization processes in accordance to FDA guidelines</description>
+	 <pubDate>Fri, 22 Jun 2018 11:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm611526.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm611526.htm</guid>
+	</item>
+	<item>
+	 <title>Various Aortic Endovascular Graft Systems: Letter to Health Care Providers - UPDATE on Type III Endoleaks</title>
+	 <description>Based on new information, the Endologix AFX with Strata device is at greater risk for a Type III endoleak compared to other endovascular AAA graft systems.</description>
+	 <pubDate>Tue, 19 Jun 2018 11:30:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm611193.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm611193.htm</guid>
+	</item>
+	<item>
+	 <title>Compounded Products Containing Triamcinolone-Moxifloxacin by Guardian Pharmacy Services (Dallas, Texas): Alert to Health Professionals - Adverse Events Reported After Receiving Eye Injections</title>
+	 <description>At least 43 patient reported adverse event after receiving eye injections of Guardian’s Pharmacy Services compounded triamcinolone-moxifloxacin product during cataract surgery. The patients reportedly experienced various symptoms, including vision impairment, poor night vision, loss of color perception, and significant reductions in best-corrected visual acuity and visual fields.
+FDA identified multiple substances in Guardian’s product, including poloxamer 407 and poloxamer 407 degradants. FDA prepared in-house samples of Guardian’s product and found that autoclaving and sonication caused the poloxamer 407 to degrade. The amount of poloxamer 407 in Guardian’s product (12%, g/100 mL) is much greater than the maximum amount of poloxamers in FDA-approved ophthalmic products for topical administration (0.1-0.2%, g/100 mL), and the safety profile of drug products intended for intravitreal injection containing poloxamer 407 is unknown.</description>
+	 <pubDate>Thu, 14 Jun 2018 21:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm610835.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm610835.htm</guid>
+	</item>
+	<item>
+	 <title>CARDIOSAVE Hybrid Intra-aortic Balloon Pump by Maquet Datascope Corp.: Class I Recall - Due to Fluid Ingress that May Affect Device Operation and Interrupt or Delay Therapy</title>
+	 <description>Maquet Datascope Corp. is recalling the IABP due to a design issue that allows fluid (such as saline) to seep into the device. The fluid can cause corrosion of internal components such as the electronic circuit boards, and lead to device malfunction (e.g., sudden stops) which can cause a delay or interruption in therapy. Device failure may result in immediate and serious adverse health consequences, including death.</description>
+	 <pubDate>Wed, 06 Jun 2018 14:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm610123.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm610123.htm</guid>
+	</item>
+	<item>
+	 <title>Naloxone Hydrochloride Injection, USP, 0.4 mg/mL, 1 mL in 2.5 mL in the Carpuject™ Single-use Cartridge Syringe System  by Hospira: Recall - Due to the Potential Presence of Particulate Matter</title>
+	 <description>The patient has a low likelihood of experiencing adverse events ranging from local irritation, allergic reactions, phlebitis, end-organ granuloma, tissue ischemia, pulmonary emboli, pulmonary dysfunction, pulmonary infarction, and toxicity.</description>
+	 <pubDate>Mon, 04 Jun 2018 00:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm609803.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm609803.htm</guid>
+	</item>
+	<item>
+	 <title>Liquid-filled Intragastric Balloons by Apollo Endosurgery and ReShape Lifesciences: Letter to Health Care Providers - New Labeling About Potential Risks</title>
+	 <description>FDA has approved new labeling for the Orbera and ReShape balloon systems with more information about possible death associated with the use of these devices.</description>
+	 <pubDate>Mon, 04 Jun 2018 00:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm609761.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm609761.htm</guid>
+	</item>
+	<item>
+	 <title>STAT-Check and Medline Manual Resuscitator Bags by SunMed Holdings: Recall - Patient Port May Detach During Use</title>
+	 <description>The patient port retaining ring of the affected bags may not fully seat which may allow the patient port to detach during use.</description>
+	 <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm609537.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm609537.htm</guid>
+	</item>
+	<item>
+	 <title>HeartWare HVAD System by Medtronic: Class I Recall - Due to Unintended Intermittent Electrical Disconnection between the Power Source and the Controller</title>
+	 <description>Interruptions to the electrical connection could cause a pump stop. A pump stop could cause patient harm such as exacerbation of heart failure symptoms, or symptoms such as mild weakness,  loss of consciousness, or death.</description>
+	 <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm609599.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm609599.htm</guid>
+	</item>
+	<item>
+	 <title>Fluticasone Propionate Nasal Spray by Apotex Corp: Recall - Due to Potential for Small Glass Particles</title>
+	 <description>The glass particles could block the actuator and impact the functionality of the pump and expose patients to the glass particles.</description>
+	 <pubDate>Thu, 31 May 2018 14:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm609488.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm609488.htm</guid>
+	</item>
+	<item>
+	 <title>TAYTULLA (norethindrone acetate and ethinyl estradiol capsules and ferrous fumarate capsules) by Allergan: Recall - Due to Out of Sequence Capsules</title>
+	 <description>Allergan recently identified, through a physician report, that four placebo capsules were placed out of order in a sample pack of TAYTULLA. Specifically, the first four days of therapy had four non-hormonal placebo capsules instead of active capsules. 
+As a result of this packaging error, oral contraceptive capsules, that are taken out of sequence, may place the user at risk for contraceptive failure and unintended pregnancy. The reversing of the order may not be apparent to either new users or previous users of the product, increasing the likelihood of taking the capsules out of order. If patients have concerns regarding the possibility of an unintended pregnancy they should consult their physician.</description>
+	 <pubDate>Tue, 29 May 2018 14:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm609064.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm609064.htm</guid>
+	</item>
+	<item>
+	 <title>X-Jow and Acne Shave Products by Shadow Holdings: Voluntary Recall - Due to Possible Bacterial Contamination</title>
+	 <description>The products may be contaminated with bacteria. Topical administration of the products could result in potentially serious bacterial infections in immunocompromised individuals.</description>
+	 <pubDate>Tue, 29 May 2018 09:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm609019.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm609019.htm</guid>
+	</item>
+	<item>
+	 <title>Oral Over-the-Counter Benzocaine Products: Drug Safety Communication  - Risk of Serious and Potentially Fatal Blood Disorder</title>
+	 <description>Oral over-the-counter benzocaine products should not be used to treat infants and children younger than 2 years and should only be used in adults and children 2 years and older if they contain certain warnings on the drug label.</description>
+	 <pubDate>Wed, 23 May 2018 00:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm608612.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm608612.htm</guid>
+	</item>
+	<item>
+	 <title>95% Ethyl Alcohol Product by Ethanol Extraction: Recall - Due to a Possible Contamination with Methanol</title>
+	 <description>Methanol,a highly toxic type of alcohol, can cause serious and sometimes fatal damage if ingested by humans or animals.</description>
+	 <pubDate>Wed, 23 May 2018 00:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm608695.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm608695.htm</guid>
+	</item>
+	<item>
+	 <title>HeartMate 3™ Left Ventricular Assist System: Class I Recall - Due to Potential Malfunction that may Lead to Graft Occlusion</title>
+	 <description>The class I recall is due to a malfunction in the device’s outflow graft assembly that may cause the outflow graft to twist and close up (occlusion) over time. Occlusion of the outflow graft can reduce or stop pump flow and set off a persistent low flow alarm in the system. A reduction in pump can lead to serious adverse events such as blood clots and death.</description>
+	 <pubDate>Tue, 22 May 2018 10:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm608444.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm608444.htm</guid>
+	</item>
+</channel>
+</rss>
+<!-- the HEAD element is required by SiteStudio
+	
+	
+--> 

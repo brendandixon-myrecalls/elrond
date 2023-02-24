@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xml:base="https://www.cpsc.gov/Recalls-old?field_rc_date_value%5Bmin%5D&amp;field_rc_date_value%5Bmax%5D&amp;field_rc_heading_value=&amp;field_rc_hazard_description_value=&amp;field_rc_manufactured_in_value=&amp;field_rc_manufacturers_value=&amp;field_rc_number_value=" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:fb="http://www.facebook.com/2008/fbml" 
+  xmlns:og="http://ogp.me/ns#" 
+  xmlns:article="http://ogp.me/ns/article#" 
+  xmlns:book="http://ogp.me/ns/book#" 
+  xmlns:profile="http://ogp.me/ns/profile#" 
+  xmlns:video="http://ogp.me/ns/video#" 
+  xmlns:product="http://ogp.me/ns/product#" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+  xmlns:sioc="http://rdfs.org/sioc/ns#" 
+  xmlns:sioct="http://rdfs.org/sioc/types#" 
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#" 
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Recall List</title>
+    <link>https://www.cpsc.gov/Recalls-old?field_rc_date_value%5Bmin%5D&amp;field_rc_date_value%5Bmax%5D&amp;field_rc_heading_value=&amp;field_rc_hazard_description_value=&amp;field_rc_manufactured_in_value=&amp;field_rc_manufacturers_value=&amp;field_rc_number_value=</link>
+    <description></description>
+    <language>en</language>
+    <atom:link href="https://www.cpsc.gov/Newsroom/CPSC-RSS-Feed/Recalls-RSS" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Provata Health Recalls Promotional Activity Trackers Due to Burn Hazard</title>
+      <link>https://www.cpsc.gov/Recalls/2018/provata-health-recalls-promotional-activity-trackers-due-to-burn-hazard</link>
+      <description>The activity tracker wristbands can overheat while the user is wearing it or when charging, posing a burn hazard.</description>
+      <pubDate>September 25, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Traeger Grills Recalls Wood Pellet Grills Due to Fire Hazard</title>
+      <link>https://www.cpsc.gov/Recalls/2018/traeger-grills-recalls-wood-pellet-grills-due-to-fire-hazard</link>
+      <description>Grease can leak from the drip tray, posing a fire hazard.</description>
+      <pubDate>September 25, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Desert Harvest Recalls Reléveum Skin Repair Cream Due to Failure to Meet Child Resistant Closure Requirements</title>
+      <link>https://www.cpsc.gov/Recalls/2018/desert-harvest-recalls-releveum-skin-repair-cream-due-to-failure-to-meet-child</link>
+      <description>The bottles are not child resistant as required by the Poison Prevention Packaging Act, posing a poisoning risk if the contents are swallowed by young children.</description>
+      <pubDate>September 25, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Woodcraft Recalls Clip-On Adapters for Motorcycle Handlebars Due to Crash Hazard
+      </title>
+      <link>https://www.cpsc.gov/Recalls/2018/woodcraft-recalls-clip-on-adapters-for-motorcycle-handlebars-due-to-crash-hazard</link>
+      <description>The adapter plate on the motorcycle handlebars can crack and fail, posing a crash hazard.</description>
+      <pubDate>September 21, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Kaz Recalls Stinger Insect Zappers Due to Shock Hazard</title>
+      <link>https://www.cpsc.gov/Recalls/2018/kaz-recalls-stinger-insect-zappers-due-to-shock-hazard</link>
+      <description>The insect kill grid can detach inside the housing, posing a shock hazard.</description>
+      <pubDate>September 20, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Weeplay Kids Recalls Children’s Coveralls Due to Choking Hazard</title>
+      <link>https://www.cpsc.gov/Recalls/2018/weeplay-kids-recalls-childrens-coveralls-due-to-choking-hazard</link>
+      <description>The bunny applique on the children’s coveralls can detach, posing a choking hazard to young children.</description>
+      <pubDate>September 20, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Titan Recalls Weight Lifting Safety Straps Due to Injury Hazard (Recall Alert)   </title>
+      <link>https://www.cpsc.gov/Recalls/2018/titan-recalls-weight-lifting-safety-straps-due-to-injury-hazard-recall-alert</link>
+      <description>The stitching in the strap can come loose causing heavy weights to fall on consumers, posing an injury hazard to the weight lifter.&amp;nbsp;</description>
+      <pubDate>September 20, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Gas Ranges and Wall Ovens Recalled by Prizer-Painter Stove Works Due to Burn Hazard</title>
+      <link>https://www.cpsc.gov/Recalls/2018/gas-ranges-and-wall-ovens-recalled-by-prizerpainter-stove-works-due-to-burn-hazard</link>
+      <description>Use of the convection oven fan during pre-heating or broiling can cause accumulated gas to ignite, posing a burn hazard to consumers when oven door is opened.</description>
+      <pubDate>September 11, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Cost Plus World Market Recalls Daybeds Due to Violation of Federal Mattress Flammability Standard</title>
+      <link>https://www.cpsc.gov/Recalls/2018/cost-plus-world-market-recalls-daybeds-due-to-violation-of-federal-mattres-flammability</link>
+      <description>The removable bottom cushion on the daybed fails to meet the federal flammability standard for mattresses, posing a fire hazard.</description>
+      <pubDate>September 11, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Jimco Recalls Bistro Chairs Due to Fall Hazard</title>
+      <link>https://www.cpsc.gov/Recalls/2018/jimco-recalls-bistro-chairs-due-to-fall-hazard</link>
+      <description>The chair’s seat can break, posing a fall hazard.</description>
+      <pubDate>September 11, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Emerson Tool Company Recalls RIDGID Wet/Dry Vacuums Due to Shock Hazard; Sold Exclusively at Home Depot</title>
+      <link>https://www.cpsc.gov/Recalls/2018/emerson-tool-company-recalls-ridgid-wet-dry-vacuums-due-to-shock-hazard-sold</link>
+      <description>The on/off switch can become dislodged and expose energized wiring, posing a shock hazard to consumers.</description>
+      <pubDate>September 11, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>John Deere Recalls Gator Utility Vehicles Due to Crash Hazard (Recall Alert)</title>
+      <link>https://www.cpsc.gov/Recalls/2018/john-deere-recalls-gator-utility-vehicles-due-to-crash-hazard-recall-alert</link>
+      <description>The powertrain hardware can come loose, causing the throttle to stick. This could result in the operator not being able to stop the vehicle, posing a crash hazard.</description>
+      <pubDate>September 11, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Lester Electrical Recalls Links Series Chargers Due to Fire and Burn Hazards</title>
+      <link>https://www.cpsc.gov/Recalls/2018/lester-electrical-recalls-links-series-chargers-due-to-fire-and-burn-hazards</link>
+      <description>The control board can fail and overheat, posing fire and burn hazards.</description>
+      <pubDate>September 6, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>TJX Recalls Barstools Due to Fall Hazard; Sold at HomeGoods, Marshalls and T.J. Maxx Stores</title>
+      <link>https://www.cpsc.gov/Recalls/2018/tjx-recalls-barstools-due-to-fall-hazard-sold-at-homegoods-marshalls-and-tj-maxx-stores</link>
+      <description>The wood joints on the barstool can break; posing a fall hazard.</description>
+      <pubDate>September 6, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Hawthorne Hydroponics Recalls Humidifiers Due to Fire and Shock Hazards</title>
+      <link>https://www.cpsc.gov/Recalls/2018/hawthorne-hydroponics-recalls-humidifiers-due-to-fire-and-shock-hazards</link>
+      <description>The humidifiers can overheat while in use, posing fire and shock hazards.</description>
+      <pubDate>September 5, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Polaris Recalls Ranger Recreational Off-Highway Vehicles Due to Crash Hazard (Recall Alert)</title>
+      <link>https://www.cpsc.gov/Recalls/2018/polaris-recalls-ranger-recreational-offhighway-vehicles-due-to-crash-hazard-recall</link>
+      <description>The front lower control arms can separate, posing a crash hazard.</description>
+      <pubDate>September 5, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Rust-Oleum Recalls Countertop Coating Due to Violation of Federal Lead Paint Ban</title>
+      <link>https://www.cpsc.gov/Recalls/2018/rust-oleum-recalls-countertop-coating-due-to-violation-of-federal-lead-paint-ban</link>
+      <description>The countertop coating contains levels of lead that exceed the federal lead paint ban. Lead is toxic if ingested by young children and can cause adverse health issues.</description>
+      <pubDate>September 5, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Core Health &amp;amp; Fitness Recalls Stairmaster Stepmill Exercise Equipment Due to Fall Hazard (Recall Alert)</title>
+      <link>https://www.cpsc.gov/Recalls/2018/core-health-fitness-recalls-stairmaster-stepmill-exercise-equipment-due-to-fall-hazard</link>
+      <description>The steps can accelerate rapidly without input from the user, posing a fall hazard.</description>
+      <pubDate>August 30, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>PetSmart Recalls Strip Lights for Reptile Cages Due to Fire Hazard </title>
+      <link>https://www.cpsc.gov/Recalls/2018/petsmart-recalls-strip-lights-for-reptile-cages-due-to-fire-hazard</link>
+      <description>The strip light’s fluorescent bulb can overheat causing the hood on the light fixture to ignite, posing a fire hazard.</description>
+      <pubDate>August 30, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>BSN SPORTS Recalls Rubber Critter Toys Due to Violation of Federal Lead Paint Ban (Recall Alert)</title>
+      <link>https://www.cpsc.gov/Recalls/2018/bsn-sports-recalls-rubber-critter-toys-due-to-violation-of-federal-lead-paint-ban</link>
+      <description>The orange and yellow surface paint on the rubber critter toys contains levels of lead that exceed the federal lead paint ban. Lead is toxic if ingested by young children and can cause adverse health issues.</description>
+      <pubDate>August 29, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Cybex Recalls Weight-Lifting Equipment Due to Serious Injury Hazards</title>
+      <link>https://www.cpsc.gov/Recalls/2018/cybex-recalls-weightlifting-equipment-due-to-serious-injury-hazards</link>
+      <description>The weight bar can fall, posing serious injury hazards to the user.</description>
+      <pubDate>August 29, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Polaris Recalls RZR XP Turbo S Recreational Off-Highway Vehicles Due to Injury Hazard (Recall Alert)</title>
+      <link>https://www.cpsc.gov/Recalls/2018/polaris-recalls-rzr-xp-turbo-s-recreational-off-highway-vehicles-due-to-injury-hazard</link>
+      <description>In the event of a high-speed rollover, the vehicle’s rollover protection structure (ROPS) can fracture, providing inadequate protection during a rollover.</description>
+      <pubDate>August 27, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Manhattan Toy Recalls Toy Planes Due to Choking Hazard</title>
+      <link>https://www.cpsc.gov/Recalls/2018/manhattan-toy-recalls-toy-planes-due-to-choking-hazard</link>
+      <description>The rubber tires can separate from the wheels, posing a choking hazard for young children.</description>
+      <pubDate>August 23, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>American Landmaster Recalls Off-Road Utility Vehicles Due to Fire and Burn Hazards </title>
+      <link>https://www.cpsc.gov/Recalls/2018/american-landmaster-recalls-offroad-utility-vehicles-due-to-fire-and-burn-hazards</link>
+      <description>Gas can leak from the utility vehicle’s gas tank, posing fire and burn hazards.</description>
+      <pubDate>August 23, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Vornado Air Reannounces Recall of Electric Space Heaters Following Report of Death; Fire and Burn Hazards</title>
+      <link>https://www.cpsc.gov/Recalls/2018/vornado-air-reannounces-recall-of-electric-space-heaters-following-report-of-death-fire</link>
+      <description>The electric space heater can overheat when in use, posing fire and burn hazards.</description>
+      <pubDate>August 22, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Yamaha Recalls Snowmobiles Due to Injury Hazard (Recall Alert)</title>
+      <link>https://www.cpsc.gov/Recalls/2018/yamaha-recalls-snowmobiles-due-to-injury-hazard-recall-alert</link>
+      <description>The passenger handgrips can come loose during operation of the snowmobile, increasing the risk that the passenger could lose balance and fall, resulting in severe injury.</description>
+      <pubDate>August 22, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Confer Plastics Recalls Pool Step Systems Due to Entrapment and Drowning Hazard</title>
+      <link>https://www.cpsc.gov/Recalls/2018/confer-plastics-recalls-pool-step-systems-due-to-entrapment-and-drowning-hazard</link>
+      <description>Children’s limbs can become entrapped in the side openings of the step systems, posing a drowning hazard.&amp;nbsp;</description>
+      <pubDate>August 21, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Polaris Recalls ACE 150 and Ranger 150 Recreational Off-Highway Vehicles Due to Crash Hazard (Recall Alert)</title>
+      <link>https://www.cpsc.gov/Recalls/2018/polaris-recalls-ace-150-and-ranger-150-recreational-off-highway-vehicles-due-to-crash</link>
+      <description>The front suspension lower ball joint can separate over time, posing a crash hazard.</description>
+      <pubDate>August 17, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Off-Road Motorcycles Recalled by American Honda Due to Crash and Injury Hazards (Recall Alert)  </title>
+      <link>https://www.cpsc.gov/Recalls/2018/offroad-motorcycles-recalled-by-american-honda-due-to-crash-and-injury-hazards-recall</link>
+      <description>The clutch outer can break, posing crash and injury hazards.</description>
+      <pubDate>August 16, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Xtava Recalls Allure Hair Dryers Due to Fire, Burn and Electrical Shock Hazards</title>
+      <link>https://www.cpsc.gov/Recalls/2018/xtava-recalls-allure-hair-dryers-due-to-fire-burn-and-electrical-shock-hazards</link>
+      <description>The hair dryer and power cord can overheat and catch on fire, posing fire, burn and electrical shock hazards.</description>
+      <pubDate>August 15, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Koehler-Bright Star Recalls Flashlights Due to Explosion Hazard </title>
+      <link>https://www.cpsc.gov/Recalls/2018/koehler-bright-star-recalls-flashlights-due-to-explosion-hazard</link>
+      <description>The flashlights are missing an encapsulation on a circuit board component which protects the flashlight from igniting an explosive environment, posing an injury hazard to the user or bystander.</description>
+      <pubDate>August 14, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Harbor Freight Tools Recalls Handgun Safes Due to Serious Injury Hazard</title>
+      <link>https://www.cpsc.gov/Recalls/2018/harbor-freight-tools-recalls-handgun-safes-due-to-serious-injury-hazard</link>
+      <description>The handgun safes can open without the use of a key or combination upon impact and allow unintended access to the contents of the safe, posing a risk of serious injury to children and others.</description>
+      <pubDate>August 9, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Vitamix Recalls Ascent and Venturist Series Blending Containers Due to Laceration Hazard</title>
+      <link>https://www.cpsc.gov/Recalls/2018/vitamix-recalls-ascent-and-venturist-series-blending-containers-due-to-laceration</link>
+      <description>The containers can separate from the blade’s base exposing the blades, posing a laceration hazard to consumers.</description>
+      <pubDate>August 9, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Bobcat Company Recalls Utility Vehicles Due To Burn and Fire Hazards (Recall Alert)</title>
+      <link>https://www.cpsc.gov/Recalls/2018/bobcat-company-recalls-utility-vehicles-due-to-burn-and-fire-hazards-recall-alert</link>
+      <description>The utility vehicle’s exhaust header pipe can crack, posing burn and fire hazards.</description>
+      <pubDate>August 8, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Polaris Recalls Gravely Utility Vehicles Due To Fire and Burn Hazards (Recall Alert)</title>
+      <link>https://www.cpsc.gov/Recalls/2018/polaris-recalls-gravely-utility-vehicles-due-to-fire-and-burn-hazards-recall-alert</link>
+      <description>The utility vehicle’s exhaust header pipe can crack, posing fire and burn hazards.</description>
+      <pubDate>August 8, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>NEMO Equipment Recalls Stargaze Recliner Chairs Due to Fall Hazard</title>
+      <link>https://www.cpsc.gov/Recalls/2018/nemo-equipment-recalls-stargaze-recliner-chairs-due-to-fall-hazard</link>
+      <description>The plastic joint supports attached to the legs of the chairs can break, posing a fall hazard.</description>
+      <pubDate>August 7, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Clean Republic Recalls Hill Topper Electric Bike Motor Controllers Due to Crash and Injury Hazards</title>
+      <link>https://www.cpsc.gov/Recalls/2018/clean-republic-recalls-hill-topper-electric-bike-motor-controllers-due-to-crash-and</link>
+      <description>Water can enter the motor controller and cause it to accelerate on its own, posing a crash and injury hazard to the rider.</description>
+      <pubDate>August 2, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Rena Ware Recalls Nutrex Pressure Cookers Due to Burn Hazard (Recall Alert)</title>
+      <link>https://www.cpsc.gov/Recalls/2018/rena-ware-recalls-nutrex-pressure-cookers-due-to-burn-hazard-recall-alert</link>
+      <description>The recalled pressure cookers can discharge steam at lower pressures than intended, posing a burn hazard to consumers.</description>
+      <pubDate>August 2, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Zebra Technologies Expands Recall of Power Supply Units for Thermal Printers Due to Fire Hazard</title>
+      <link>https://www.cpsc.gov/Recalls/2018/Zebra-Technologies-Expands-Recall-of-Power-Supply-Units-for-Ther0mal-Printers-Due-to-Fire-Hazard</link>
+      <description>The power supply units can degrade and corrode over time when exposed to moisture and overheat, posing a fire hazard.</description>
+      <pubDate>August 2, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Arctic Cat Snowmobiles Recalled by Textron Specialized Vehicles Due to Injury Hazard (Recall Alert)</title>
+      <link>https://www.cpsc.gov/Recalls/2018/Arctic-Cat-Snowmobiles-Recalled-by-Textron-Specialized-Vehicles-Due-to-Injury-Hazard-Recall-Alert</link>
+      <description>The handgrip can break, posing an injury hazard to the rider.</description>
+      <pubDate>August 2, 2018</pubDate>
+      <dc:creator />
+      <guid isPermaLink="false" />
+    </item>
+  </channel>
+</rss>

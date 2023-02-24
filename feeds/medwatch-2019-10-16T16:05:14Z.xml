@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/medwatch/rss.xml">
+  <channel>
+    <title>MedWatch Safety Alerts RSS Feed</title>
+    <link>http://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/medwatch/rss.xml</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>2019 Biologics Recalls</title>
+  <link>http://www.fda.gov/vaccines-blood-biologics/recalls-biologics/2019-biologics-recalls</link>
+  <description>2019 Biologics Recalls&lt;div class="table-responsive"&gt;&lt;br /&gt;
+  &lt;table class="table table-bordered" summary="2019 Biologics Recalls"&gt;&lt;br /&gt;
+    &lt;thead&gt;&lt;br /&gt;
+      &lt;tr&gt;&lt;br /&gt;
+        &lt;th scope="col"&gt;Date Notification&lt;br /&gt;
+        &lt;/th&gt;&lt;br /&gt;
+        &lt;th scope="col"&gt;Brand Name&lt;br /&gt;
+        &lt;/th&gt;&lt;br /&gt;
+        &lt;th scope="col"&gt;Product Description&lt;br /&gt;</description>
+  <pubDate>Wed, 16 Oct 2019 10:50:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/vaccines-blood-biologics/recalls-biologics/2019-biologics-recalls</guid>
+    </item>
+<item>
+  <title>Important Drug Information - Humate-P [Antihemophilic Factor/von Willebrand Factor Complex (Human)]</title>
+  <link>http://www.fda.gov/vaccines-blood-biologics/recalls-biologics/important-drug-information-humate-p-antihemophilic-factorvon-willebrand-factor-complex-human</link>
+  <description>CSL Behring LLC is alerting customers to a misalignment in the printing of the data on the folding box of Humate-P  that might lead to confusion of the user.</description>
+  <pubDate>Wed, 16 Oct 2019 09:50:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/vaccines-blood-biologics/recalls-biologics/important-drug-information-humate-p-antihemophilic-factorvon-willebrand-factor-complex-human</guid>
+    </item>
+<item>
+  <title>Innoveix Pharmaceuticals, Inc. Issues Voluntary Recall of all Sterile Compounded Drug Products Due to a Lack of Sterility Assurance</title>
+  <link>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/innoveix-pharmaceuticals-inc-issues-voluntary-recall-all-sterile-compounded-drug-products-due-lack</link>
+  <description>Innoveix Pharmaceuticals, Inc. is voluntarily recalling all sterile compounded drug products, within expiry, to the consumer level. The products are being recalled due to a lack of assurance of sterility. These concerns arose following a routine inspection of the pharmacy by FDA.</description>
+  <pubDate>Thu, 10 Oct 2019 00:00:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/innoveix-pharmaceuticals-inc-issues-voluntary-recall-all-sterile-compounded-drug-products-due-lack</guid>
+    </item>
+<item>
+  <title>2019 Medical Device Recalls</title>
+  <link>http://www.fda.gov/medical-devices/medical-device-recalls/2019-medical-device-recalls</link>
+  <description>The list below contains recalls that were issued in 2019.</description>
+  <pubDate>Tue, 08 Oct 2019 10:00:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/medical-devices/medical-device-recalls/2019-medical-device-recalls</guid>
+    </item>
+<item>
+  <title>ICU Medical Issues a Voluntary Nationwide Recall of Certain Lots of Plum and Sapphire Microbore Infusion Sets with Inline Filters</title>
+  <link>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/icu-medical-issues-voluntary-nationwide-recall-certain-lots-plum-and-sapphire-microbore-infusion</link>
+  <description>ICU Medical, Inc. announced a voluntary recall on 29 July 2019 of certain lots of Plum and Sapphire Microbore Infusion Sets with inline filters due to the potential for small amounts of fluid leaking out of the air vents on the inline filters. To date, ICU Medical is not aware of adverse events rela</description>
+  <pubDate>Tue, 08 Oct 2019 00:00:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/icu-medical-issues-voluntary-nationwide-recall-certain-lots-plum-and-sapphire-microbore-infusion</guid>
+    </item>
+<item>
+  <title>Medtronic Recalls 6 French Sherpa NX Active Guide Catheters Due to Separation and Fragmentation Issue</title>
+  <link>http://www.fda.gov/medical-devices/medical-device-recalls/medtronic-recalls-6-french-sherpa-nx-active-guide-catheters-due-separation-and-fragmentation-issue</link>
+  <description>Medtronic is recalling the 6 French Sherpa NX Active Guide Catheter due to a risk of the outer material separating from the device resulting in detached fragments that could result in the underlying stainless-steel braid wires being exposed.</description>
+  <pubDate>Tue, 08 Oct 2019 00:00:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/medical-devices/medical-device-recalls/medtronic-recalls-6-french-sherpa-nx-active-guide-catheters-due-separation-and-fragmentation-issue</guid>
+    </item>
+<item>
+  <title>Lung Injury Update: FDA Warns Public to Stop Using Tetrahydrocannabinol (THC)-Containing Vaping Products and Any Vaping Products Obtained Off the Street   </title>
+  <link>http://www.fda.gov/safety/medical-product-safety-information/lung-injury-update-fda-warns-public-stop-using-tetrahydrocannabinol-thc-containing-vaping-products</link>
+  <description>FDA is strengthening its warning to consumers to stop using vaping products containing THC amid more than 1,000 reports of lung injuries—including some resulting in deaths—following the use of vaping products.</description>
+  <pubDate>Fri, 04 Oct 2019 14:17:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/safety/medical-product-safety-information/lung-injury-update-fda-warns-public-stop-using-tetrahydrocannabinol-thc-containing-vaping-products</guid>
+    </item>
+<item>
+  <title>CBER FY 2018 Recall Postings</title>
+  <link>http://www.fda.gov/vaccines-blood-biologics/recalls-biologics/cber-fy-2018-recall-postings</link>
+  <description>List of CBER FY 2018 Recall Postings.</description>
+  <pubDate>Wed, 02 Oct 2019 07:15:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/vaccines-blood-biologics/recalls-biologics/cber-fy-2018-recall-postings</guid>
+    </item>
+<item>
+  <title>CBER FY 2019 Recall Postings</title>
+  <link>http://www.fda.gov/vaccines-blood-biologics/recalls-biologics/cber-fy-2019-recall-postings</link>
+  <description>Listing of CBER FY 2019 Recall Postings</description>
+  <pubDate>Wed, 02 Oct 2019 07:15:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/vaccines-blood-biologics/recalls-biologics/cber-fy-2019-recall-postings</guid>
+    </item>
+<item>
+  <title>2019 Safety Communications</title>
+  <link>http://www.fda.gov/medical-devices/safety-communications/2019-safety-communications</link>
+  <description>The FDA posts Medical Device Safety Communications to describe the FDA's current analysis of an issue and contain specific regulatory approaches and clinical recommendations for patient management.</description>
+  <pubDate>Tue, 01 Oct 2019 10:00:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/medical-devices/safety-communications/2019-safety-communications</guid>
+    </item>
+<item>
+  <title>URGENT/11 Cybersecurity Vulnerabilities in a Widely-Used Third-Party Software Component May Introduce Risks During Use of Certain Medical Devices: FDA Safety Communication</title>
+  <link>http://www.fda.gov/medical-devices/safety-communications/urgent11-cybersecurity-vulnerabilities-widely-used-third-party-software-component-may-introduce</link>
+  <description>URGENT/11 Cybersecurity Vulnerabilities in a Widely-Used Third-Party Software Component May Introduce Risks During Use of Certain Medical Devices: FDA Safety Communication</description>
+  <pubDate>Tue, 01 Oct 2019 00:00:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/medical-devices/safety-communications/urgent11-cybersecurity-vulnerabilities-widely-used-third-party-software-component-may-introduce</guid>
+    </item>
+<item>
+  <title>Mavidon Issues Voluntary Worldwide Recall of LemonPrep® Tubes and Single Use Cups</title>
+  <link>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mavidon-issues-voluntary-worldwide-recall-lemonprepr-tubes-and-single-use-cups</link>
+  <description>Mavidon is voluntarily recalling 21 lots of LemonPrep® 4 ounce tubes and single use cups to user level. These products have been found to be contaminated with Burkholderia cepacia. The specific lots are listed below:</description>
+  <pubDate>Thu, 26 Sep 2019 00:00:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mavidon-issues-voluntary-worldwide-recall-lemonprepr-tubes-and-single-use-cups</guid>
+    </item>
+<item>
+  <title>Apotex Corp. Issues Voluntary Nationwide Recall of Ranitidine Tablets 75mg and 150mg (All pack sizes and Formats) due to the potential for Detection of an Amount of Unexpected Impurity,N-nitrosodimethylamine (NDMA) Impurity in the product</title>
+  <link>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/apotex-corp-issues-voluntary-nationwide-recall-ranitidine-tablets-75mg-and-150mg-all-pack-sizes-and</link>
+  <description>Apotex Corp. is voluntarily, on a precautionary basis, recalling Ranitidine Tablets 75mg and 150mg (All pack sizes and Formats) to the Retail level. Apotex has learned from the U.S. Food and Drug Administration and other Global regulators that some ranitidine medicines including brand and generic fo</description>
+  <pubDate>Wed, 25 Sep 2019 00:00:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/apotex-corp-issues-voluntary-nationwide-recall-ranitidine-tablets-75mg-and-150mg-all-pack-sizes-and</guid>
+    </item>
+<item>
+  <title>Sandoz Inc. Issues Voluntary Recall of Ranitidine Hydrochloride Capsules 150mg and 300mg  Due to An Elevated Amount of Unexpected Impurity, N-Nitrosodimethylamine (NDMA), in the Product</title>
+  <link>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sandoz-inc-issues-voluntary-recall-ranitidine-hydrochloride-capsules-150mg-and-300mg-due-elevated</link>
+  <description>–  Sandoz Inc. is voluntarily recalling all quantities and lots within expiry of Ranitidine Hydrochloride Capsules in the US to the consumer level because of confirmed contamination with N-Nitrosodimethylamine (NDMA) above levels established by the FDA in batches of Sandoz Ranitidine Hydrochloride C</description>
+  <pubDate>Mon, 23 Sep 2019 00:00:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sandoz-inc-issues-voluntary-recall-ranitidine-hydrochloride-capsules-150mg-and-300mg-due-elevated</guid>
+    </item>
+<item>
+  <title>Updated: Torrent Pharmaceuticals Limited Expands Voluntary Nationwide Recall of Losartan Potassium Tablets, USP and Losartan Potassium / Hydrochlorothiazide Tablets, USP</title>
+  <link>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/updated-torrent-pharmaceuticals-limited-expands-voluntary-nationwide-recall-losartan-potassium-0</link>
+  <description>Torrent Pharmaceuticals Limited is expanding its recall for Losartan Potassium Tablets USP and Losartan Potassium/hydrochlorothiazide tablets, USP, to the consumer level due to the detection of trace amounts of an unexpected impurity.</description>
+  <pubDate>Thu, 19 Sep 2019 00:00:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/updated-torrent-pharmaceuticals-limited-expands-voluntary-nationwide-recall-losartan-potassium-0</guid>
+    </item>
+<item>
+  <title>Teleflex Medical Recalls the Hudson RCI Sheridan and Sheridan Endotracheal Tubes Due to Risk of the Sheridan Connector Disconnecting from the Breathing Circuit</title>
+  <link>http://www.fda.gov/medical-devices/medical-device-recalls/teleflex-medical-recalls-hudson-rci-sheridan-and-sheridan-endotracheal-tubes-due-risk-sheridan</link>
+  <description>FDA has classified the voluntary action as a Class I recall for the Teleflex Medical Recalls the Hudson RCI Sheridan and Sheridan Endotracheal Tubes Due to Risk of the Sheridan Connector Disconnecting from the Breathing Circuit</description>
+  <pubDate>Tue, 17 Sep 2019 12:45:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/medical-devices/medical-device-recalls/teleflex-medical-recalls-hudson-rci-sheridan-and-sheridan-endotracheal-tubes-due-risk-sheridan</guid>
+    </item>
+<item>
+  <title>Fitoterapia USA Inc. Issues Voluntary Nationwide Recall of MERO MACHO ARTIFICIAL PASSION FRUIT FLAVORED VITAMIN C LIQUID SUPPLEMENT Due to Presence of Active Ingredient Tadalafil</title>
+  <link>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fitoterapia-usa-inc-issues-voluntary-nationwide-recall-mero-macho-artificial-passion-fruit-flavored</link>
+  <description>Fitoterapia USA Inc., is voluntarily recalling 19,000 bottles of MACHO ARTIFICIAL PASSION FRUIT FLAVORED VITAMIN C LIQUID SUPPLEMENT, liquid dietary supplement to the consumer level. FDA analysis has found the product to be tainted with Tadalafil. Tadalafil is an active ingredient in a FDA- approved</description>
+  <pubDate>Mon, 16 Sep 2019 00:00:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fitoterapia-usa-inc-issues-voluntary-nationwide-recall-mero-macho-artificial-passion-fruit-flavored</guid>
+    </item>
+<item>
+  <title>Ibrance (palbociclib), Kisqali (ribociclib), and Verzenio (abemaciclib): Drug Safety Communication - Due to Rare but Severe Lung Inflammation</title>
+  <link>http://www.fda.gov/safety/medical-product-safety-information/ibrance-palbociclib-kisqali-ribociclib-and-verzenio-abemaciclib-drug-safety-communication-due-rare</link>
+  <description>FDA is warning that Ibrance (palbociclib), Kisqali (ribociclib), and Verzenio (abemaciclib) used to treat some patients with advanced breast cancers may cause rare but severe inflammation of the lungs.</description>
+  <pubDate>Fri, 13 Sep 2019 12:00:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/safety/medical-product-safety-information/ibrance-palbociclib-kisqali-ribociclib-and-verzenio-abemaciclib-drug-safety-communication-due-rare</guid>
+    </item>
+<item>
+  <title>Zantac (ranitidine): Safety Information - NDMA Found in Samples of Some Ranitidine Medicines</title>
+  <link>http://www.fda.gov/safety/medical-product-safety-information/zantac-ranitidine-safety-information-ndma-found-samples-some-ranitidine-medicines</link>
+  <description>FDA has learned that some ranitidine medicines, including some products commonly known as the brand-name drug Zantac, contain NDMA.</description>
+  <pubDate>Thu, 12 Sep 2019 12:00:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/safety/medical-product-safety-information/zantac-ranitidine-safety-information-ndma-found-samples-some-ranitidine-medicines</guid>
+    </item>
+<item>
+  <title>Allergan Recalls Natrelle Biocell Textured Breast Implants Due to Risk of BIA-ALCL Cancer</title>
+  <link>http://www.fda.gov/medical-devices/medical-device-recalls/allergan-recalls-natrelle-biocell-textured-breast-implants-due-risk-bia-alcl-cancer</link>
+  <description>Allergan Recalls Natrelle Biocell Textured Breast Implants Due to Risk of BIA-ALCL Cancer</description>
+  <pubDate>Thu, 12 Sep 2019 00:00:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/medical-devices/medical-device-recalls/allergan-recalls-natrelle-biocell-textured-breast-implants-due-risk-bia-alcl-cancer</guid>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/food-allergies/rss.xml">
+  <channel>
+    <title>MedWatch Safety Alerts RSS Feed</title>
+    <link>http://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/food-allergies/rss.xml</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Certain Prescription Insomnia Medicines: New Boxed Warning - Due to Risk of Serious Injuries Caused by Sleepwalking, Sleep Driving and Engaging in Other Activities While Not Fully Awake</title>
+  <link>http://www.fda.gov/safety/medwatch-safety-alerts-human-medical-products/certain-prescription-insomnia-medicines-new-boxed-warning-due-risk-serious-injuries-caused</link>
+  <description>MedWatch Alert on certain prescription insomnia medicines.</description>
+  <pubDate>2019-04-30T19:10:04Z</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/safety/medwatch-safety-alerts-human-medical-products/certain-prescription-insomnia-medicines-new-boxed-warning-due-risk-serious-injuries-caused</guid>
+    </item>
+
+  </channel>
+</rss>

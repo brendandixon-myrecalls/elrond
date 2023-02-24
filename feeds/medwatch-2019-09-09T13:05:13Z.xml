@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xml:base="http://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/medwatch/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>MedWatch Safety Alerts RSS Feed</title>
+    <link>http://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/medwatch/rss.xml</link>
+    <description></description>
+    <language>en</language>
+    
+    <item>
+  <title>Tetrahydrocannabinol (THC)-containing Vaping Products: Vaping Illnesses</title>
+  <link>http://www.fda.gov/safety/medwatch-safety-alerts-human-medical-products/tetrahydrocannabinol-thc-containing-vaping-products-vaping-illnesses</link>
+  <description>Consumers are likely aware of the recent reports of respiratory illnesses – including some resulting in deaths – following the use of vaping products.The FDA is working closely with the CDC, as well as state and local public health partners to investigate them as quickly as possible.</description>
+  <pubDate><time datetime="2019-09-09T12:40:11Z">Mon, 09/09/2019 - 08:40</time>
+</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/safety/medwatch-safety-alerts-human-medical-products/tetrahydrocannabinol-thc-containing-vaping-products-vaping-illnesses</guid>
+    </item>
+<item>
+  <title>E-Cigarette Products: Safety Communication - Due to the Incidents of Severe Respiratory Disease Associated with Use of an E-Cigarette Product </title>
+  <link>http://www.fda.gov/safety/medwatch-safety-alerts-human-medical-products/e-cigarette-products-safety-communication-due-incidents-severe-respiratory-disease-associated-use-e</link>
+  <description>Both the U.S. Food and Drug Administration and the U.S. Centers for Disease Control and Prevention are working tirelessly to investigate the distressing incidents of severe respiratory disease associated with use of e-cigarette products. </description>
+  <pubDate><time datetime="2019-08-30T16:10:14Z">Fri, 08/30/2019 - 12:10</time>
+</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/safety/medwatch-safety-alerts-human-medical-products/e-cigarette-products-safety-communication-due-incidents-severe-respiratory-disease-associated-use-e</guid>
+    </item>
+<item>
+  <title>Hepatitis C Medicines (Mavyret, Zepatier, and Vosevi): Drug Safety Communication - Due to Rare Occurrence of Serious Liver Injury in Some patients with Advanced Liver Disease</title>
+  <link>http://www.fda.gov/safety/medwatch-safety-alerts-human-medical-products/hepatitis-c-medicines-mavyret-zepatier-and-vosevi-drug-safety-communication-due-rare-occurrence</link>
+  <description>FDA has received reports that the use of Mavyret, Zepatier, or Vosevi to treat chronic Hepatitis C in patients with moderate to severe liver impairment has resulted in rare cases of worsening liver function or liver failure.</description>
+  <pubDate><time datetime="2019-08-29T13:28:41Z">Thu, 08/29/2019 - 09:28</time>
+</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/safety/medwatch-safety-alerts-human-medical-products/hepatitis-c-medicines-mavyret-zepatier-and-vosevi-drug-safety-communication-due-rare-occurrence</guid>
+    </item>
+<item>
+  <title>Xeljanz, Xeljanz XR (tofacitinib): Drug Safety Communication - Due to an Increased Risk of Blood Clots and Death with Higher Dose</title>
+  <link>http://www.fda.gov/safety/medwatch-safety-alerts-human-medical-products/xeljanz-xeljanz-xr-tofacitinib-drug-safety-communication-due-increased-risk-blood-clots-and-death</link>
+  <description>Drug Safety Communication - Due to an Increased Risk of Blood Clots and Death with Higher Dose</description>
+  <pubDate><time datetime="2019-07-26T13:45:03Z">Fri, 07/26/2019 - 09:45</time>
+</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/safety/medwatch-safety-alerts-human-medical-products/xeljanz-xeljanz-xr-tofacitinib-drug-safety-communication-due-increased-risk-blood-clots-and-death</guid>
+    </item>
+<item>
+  <title>Fecal Microbiota for Transplantation: Safety Communication- Risk of Serious Adverse Reactions Due to Transmission of Multi-Drug Resistant Organisms</title>
+  <link>http://www.fda.gov/safety/medwatch-safety-alerts-human-medical-products/fecal-microbiota-transplantation-safety-communication-risk-serious-adverse-reactions-due</link>
+  <description>FDA MedWatch Alert regarding Fecal Microbiota for Transplantation: Safety Communication- Risk of Serious Adverse Reactions Due to Transmission of Multi-Drug Resistant Organisms</description>
+  <pubDate><time datetime="2019-06-19T13:00:23Z">Wed, 06/19/2019 - 09:00</time>
+</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/safety/medwatch-safety-alerts-human-medical-products/fecal-microbiota-transplantation-safety-communication-risk-serious-adverse-reactions-due</guid>
+    </item>
+<item>
+  <title>E-cigarette: Safety Communication - Related to Seizures Reported Following E-cigarette Use, Particularly in Youth and Young Adults</title>
+  <link>http://www.fda.gov/safety/medwatch-safety-alerts-human-medical-products/e-cigarette-safety-communication-related-seizures-reported-following-e-cigarette-use-particularly</link>
+  <description>Safety Communication - Related to Seizures Reported Following E-cigarette Use, Particularly in Youth and Young Adults</description>
+  <pubDate><time datetime="2019-05-16T15:00:11Z">Thu, 05/16/2019 - 11:00</time>
+</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/safety/medwatch-safety-alerts-human-medical-products/e-cigarette-safety-communication-related-seizures-reported-following-e-cigarette-use-particularly</guid>
+    </item>
+<item>
+  <title>Certain Prescription Insomnia Medicines: New Boxed Warning - Due to Risk of Serious Injuries Caused by Sleepwalking, Sleep Driving and Engaging in Other Activities While Not Fully Awake</title>
+  <link>http://www.fda.gov/safety/medwatch-safety-alerts-human-medical-products/certain-prescription-insomnia-medicines-new-boxed-warning-due-risk-serious-injuries-caused</link>
+  <description>MedWatch Alert on certain prescription insomnia medicines.</description>
+  <pubDate><time datetime="2019-04-30T19:10:04Z">Tue, 04/30/2019 - 15:10</time>
+</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/safety/medwatch-safety-alerts-human-medical-products/certain-prescription-insomnia-medicines-new-boxed-warning-due-risk-serious-injuries-caused</guid>
+    </item>
+
+  </channel>
+</rss>

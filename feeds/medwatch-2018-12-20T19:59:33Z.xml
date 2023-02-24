@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+	
+
+<rss version="2.0">
+<channel>
+	<title>MedWatch Safety Alert RSS Feed</title>
+	<description>FDA MedWatch Safety Alerts</description>
+	<link>https://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/MedWatch/rss.xml</link>
+	<language>en-us</language>
+	<lastBuildDate>Thu, 20 Dec 2018 00:00:00 -0500</lastBuildDate>
+ 
+	<webMaster>jay.wattenberg@fda.hhs.gov (Jay Wattenberg)</webMaster>
+  			<image> 
+  				<title>FDA MedWatch</title> 
+ 				<url>https://www.fda.gov/ucm/groups/fdagov-public/documents/image/ucm052224.gif</url> 
+  				<link>https://www.fda.gov/Safety/MedWatch/default.htm</link> 
+  				<width>144</width> 
+  				<height>52</height> 
+  				<description>FDA MedWatch Safety Alerts</description> 
+  			</image> 
+	<item>
+	 <title>Fluoroquinolone Antibiotics: Safety Communication - Increased Risk of Ruptures or Tears in the Aorta Blood Vessel in Certain Patients</title>
+	 <description>FDA review found that fluoroquinolone antibiotics can increase the occurrence of rare but serious events of ruptures or tears in the main artery of the body, called the aorta.  These tears, called aortic dissections, or ruptures of an aortic aneurysm can lead to dangerous bleeding or even death.  They can occur with fluoroquinolones for systemic use given by mouth or through an injection.</description>
+	 <pubDate>Thu, 20 Dec 2018 00:00:00 -0500</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm628960.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm628960.htm</guid>
+	</item>
+	<item>
+	 <title>Gilenya (fingolimod): Drug Safety Communication - Severe Worsening of Multiple Sclerosis After Stopping the Medicine</title>
+	 <description>FDA is warning that when the multiple sclerosis (MS) medicine Gilenya (fingolimod) is stopped, the disease can become much worse than before the medicine was started or while it was being taken. This MS worsening is rare but can result in permanent disability.</description>
+	 <pubDate>Tue, 20 Nov 2018 00:00:00 -0500</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm626264.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm626264.htm</guid>
+	</item>
+	<item>
+	 <title>Implanted Pumps: Safety Communication - Use Caution When Selecting Pain Medicine for Intrathecal Administration</title>
+	 <description>The FDA is aware that patients undergoing treatment or management of pain are commonly given pain medicines in the spinal fluid (intrathecal administration) that are not FDA approved for use with the implanted pump.</description>
+	 <pubDate>Wed, 14 Nov 2018 00:00:00 -0500</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm625862.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm625862.htm</guid>
+	</item>
+	<item>
+	 <title>SGLT2(sodium-glucose cotransporter-2) Inhibitors for Diabetes: Drug Safety Communication - Regarding Rare Occurrences of a Serious Infection of the Genital Area</title>
+	 <description>Requiring a new warning about this risk to be added to the prescribing information of all SGLT2 inhibitors and to the patient Medication Guide.</description>
+	 <pubDate>Wed, 29 Aug 2018 00:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm618908.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm618908.htm</guid>
+	</item>
+	<item>
+	 <title>Temporary Total Artificial Heart Companion 2 Driver System by SynCardia Systems: Letter to Health Care Providers - Risk of Mortality and Stroke</title>
+	 <description>FDA has reviewed the final results from the post-approval study conducted by SynCardia Systems, LLC. for their Temporary Total Artificial Heart (TAH-t) Companion 2 Driver System (C2 Driver System). These final results indicate a higher mortality rate and higher stroke rate for patients initially supported with the C2 Driver System compared to patients initially supported with the previous generation driver, the Circulatory Support System (CSS) Console.</description>
+	 <pubDate>Fri, 17 Aug 2018 11:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm617259.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm617259.htm</guid>
+	</item>
+	<item>
+	 <title>Risks Associated with Use of Rupture of Membranes Tests - Letter to Health Care Providers</title>
+	 <description>The FDA is reminding health care providers that tests to detect rupture of the amniotic membranes should not be used without other clinical assessments to make critical patient management decisions.</description>
+	 <pubDate>Wed, 08 Aug 2018 14:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm616220.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm616220.htm</guid>
+	</item>
+	<item>
+	 <title>Zithromax, Zmax (azithromycin): FDA Warning - Increased Risk of Cancer Relapse With Long-Term Use After Donor Stem Cell Transplant</title>
+	 <description>The antibiotic Zithromax, Zmax (azithromycin) should not be given long-term to prevent a certain inflammatory lung condition in patients with cancers of the blood or lymph nodes who undergo a donor stem cell transplant. Results of a clinical trial found an increased rate of relapse in cancers affecting the blood and lymph nodes, including death, in these patients.</description>
+	 <pubDate>Fri, 03 Aug 2018 10:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm615738.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm615738.htm</guid>
+	</item>
+	<item>
+	 <title>Valsartan-Containing Products: Update Health Professional and Consumer on Recent Recalled Products</title>
+	 <description>The investigation into valsartan-containing products is ongoing and there are currently three voluntary recalls related to the NDMA impurity detected in the valsartan</description>
+	 <pubDate>Thu, 19 Jul 2018 00:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm614030.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm614030.htm</guid>
+	</item>
+	<item>
+	 <title>Fluoroquinolone Antibiotics: FDA Requires Labeling Changes Due to Low Blood Sugar Levels and Mental Health Side Effects</title>
+	 <description>FDA is strengthening the current warnings in the prescribing information that fluoroquinolone antibiotics may cause significant decreases in blood sugar and certain mental health side effects.</description>
+	 <pubDate>Tue, 10 Jul 2018 13:00:00 -0400</pubDate>
+	 <link>https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm612979.htm</link>
+	 <guid isPermaLink="true">https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm612979.htm</guid>
+	</item>
+</channel>
+</rss>
+<!-- the HEAD element is required by SiteStudio
+	
+	
+--> 
